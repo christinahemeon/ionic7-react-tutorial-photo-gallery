@@ -1,5 +1,5 @@
 # Following Intro Ionic React Quickstart
-Completed tutorial on April 6, 2023 following [Intro Ionic React Quickstart](https://ionicframework.com/docs/react/quickstart) using Ionic 7.
+Completed tutorial on April 6, 2023 following [Intro Ionic React Quickstart](https://ionicframework.com/docs/react/your-first-app) using Ionic 7.
 
 ## Issues following tutorial
 Since I used Ionic 7, any reference to 'index.tsx' in the tutorial was implemented in 'main.tsx.'
